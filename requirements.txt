@@ -1,0 +1,4 @@
+ComputerVisionClient
+OperationStatusCodes
+VisualFeatureTypes
+CognitiveServicesCredentials
