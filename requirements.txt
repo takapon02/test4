@@ -1,4 +1,7 @@
-ComputerVisionClient
-OperationStatusCodes
-VisualFeatureTypes
-CognitiveServicesCredentials
+gunicorn
+azure-storage-blob
+
+azure-CognitiveServices-vision-computervision
+
+Pillow
+streamlit
